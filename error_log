@@ -1,0 +1,15 @@
+[31-Oct-2017 14:56:07 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 110
+[31-Oct-2017 15:01:09 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 110
+[31-Oct-2017 15:41:11 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 110
+[31-Oct-2017 15:41:42 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 110
+[31-Oct-2017 16:15:33 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 110
+[31-Oct-2017 16:17:27 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 109
+[31-Oct-2017 16:19:23 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 112
+[31-Oct-2017 16:28:48 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 110
+[31-Oct-2017 16:30:10 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 110
+[31-Oct-2017 16:57:14 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 110
+[31-Oct-2017 16:58:03 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 110
+[31-Oct-2017 17:00:27 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 110
+[31-Oct-2017 17:00:55 Asia/Jakarta] PHP Fatal error:  Call to a member function input_user() on a non-object in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 110
+[31-Oct-2017 17:47:37 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_kuliner::get_data() in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 175
+[31-Oct-2017 17:47:45 Asia/Jakarta] PHP Fatal error:  Call to undefined method M_kuliner::get_data() in /home/u9801493/public_html/pariwisatajateng/application/controllers/Api.php on line 175
